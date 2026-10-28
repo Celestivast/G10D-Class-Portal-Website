@@ -1,0 +1,13 @@
+{
+  "supabaseUrl": "https://mlricrhvhhhtlzlizgda.supabase.co",
+  "supabasePublishableKey": "sb_publishable_7CglhK4uSmdGYy07jlzP6Q_qGZ2BLU_",
+  "turnstileSiteKey": "0x4AAAAAAFpSlcsgpWTLjyM5",
+  "enableRegistration": false,
+  "enableMicrosoftLogin": false,
+  "forms": {
+    "feedback": "",
+    "story": "",
+    "registration": ""
+  },
+  "contentSource": "supabase"
+}
